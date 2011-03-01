@@ -1,0 +1,5 @@
+= A sinatra app to tell the Tribesports tech team what to do as the daily exercise
+
+== Requirements
+ruby 1.9
+
